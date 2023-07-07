@@ -1,0 +1,6 @@
+Flask
+Flask-RESTful
+requests
+PyMySQL
+#mysql
+mysql-connector-python
